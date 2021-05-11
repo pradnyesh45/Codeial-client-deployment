@@ -1,7 +1,7 @@
 // const proxyurl = "https://cors-anywhere.herokuapp.com/";
 // const API_ROOT = "http://localhost:8000/api/v1";
 // const API_ROOT = proxyurl + url;
-const API_ROOT = "https://codeial.codingninjas.com:8000/api/v2/";
+const API_ROOT = "http://codeial.codingninjas.com:8000/api/v2/";
 // const API_ROOT2 = "http://localhost:8000/api/v1";
 
 export const APIUrls = {
